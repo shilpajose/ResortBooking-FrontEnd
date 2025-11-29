@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+    font-family: "Solway", serif;
+    font-weight: 300;
+}
+html {
+  scroll-behavior: smooth;
+}
